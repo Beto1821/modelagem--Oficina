@@ -304,6 +304,6 @@ erDiagram
 
 ---
 
-**Desenvolvido por**: [Seu Nome]  
+**Desenvolvido por**: Adalberto Ribeiro  
 **Data**: Outubro 2025  
 **Projeto**: Desafio DIO - Esquema Conceitual para Banco de Dados
